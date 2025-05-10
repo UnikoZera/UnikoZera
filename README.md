@@ -1,9 +1,10 @@
 ## Hi there 👋
-Here is UnikoZera!
+This is UnikoZera!
 
-- 🔭 I’m currently working on MCU like STC series projects(like AI8051U or STC32G12K128)
-- 🌱 I’m currently learning C, C++, C#, and Python languages with VSC!(Mainly focus on C lang)
-- I'm very busy at times,but I'm greatly willing if u wanna make a friend or have discuss with me!
+- 🔭 I’m currently working on MCU like STC series projects(like AI8051U or STC32G12K128) AND some STM series!(STM32C8T)
+- 🤔 After tasting the benefits of STM, I started to dislike STC. (maybe not really...  HAHA)
+- 🌱 I’m currently using C && C# language, and gonna learning Python && C++ with VSC!
+- I'm very busy at times,, but I am very happy to make friends or discuss technical matters in depth!
 
 ### Time Chart of Code 
 ![Look At this!](https://wakatime.com/share/@f8cc63dc-e4b7-4f39-862e-4c2e07850083/89cc1195-1ca3-4ec6-831d-6df1a39943f3.svg)
